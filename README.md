@@ -2,6 +2,6 @@
 
 -**Master of Engineering** from Concordia University
 
-**Field of Interest: Data Analytics, Continous Improvement, Operations, Supply Chain
+**Field of Interest**: Data Analytics, Continous Improvement, Operations, Supply Chain
 
-#Skills
+# Skills
