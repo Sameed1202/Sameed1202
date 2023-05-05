@@ -23,11 +23,10 @@
   - Simulation of Montreal Clinic using ARENA 
 
 # Tableau Projects 👨‍💻
-  - [Cusomer Sales Dashboard](https://public.tableau.com/app/profile/sameed/viz/CustomerSales_16817864794460/CustomerSales)- An interactive dashboard displaying              sales information such as most profitable products, profit margin, and segmentation based on  different types and countries
-          ![image]([https://user-images.githubusercontent.com/129471307/236369634-d972e31a-efdd-4abd-9554-af531b6ca924.png](https://public.tableau.com/app/profile/sameed/viz/CustomerSales_16817864794460/CustomerSales))
-  
   - [Annual Salary Dashboard](https://public.tableau.com/app/profile/sameed/viz/AnnualSalaryDashboard/Dashboard1) - An interactive dashboard displaying annual salay          different countries based on different industries
-
+  -
+  - [Cusomer Sales Dashboard](https://public.tableau.com/app/profile/sameed/viz/CustomerSales_16817864794460/CustomerSales)- An interactive dashboard displaying              sales information such as most profitable products, profit margin, and segmentation based on  different types and countries
+      
 # Certifications 📄
   - [Tableau training for Data Science](https://www.udemy.com/certificate/UC-3814f458-5b6f-4699-8fd1-6364647aecbc/)
   - Six Sigma Green Belt 
