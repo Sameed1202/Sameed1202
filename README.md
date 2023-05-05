@@ -24,6 +24,13 @@
 
 # Tableau Projects 👨‍💻
   - [Cusomer Sales Dashboard](https://public.tableau.com/app/profile/sameed/viz/CustomerSales_16817864794460/CustomerSales)- An interactive dashboard displaying              sales information such as most profitable products, profit margin, and segmentation based on  different types and countries
-     ![image](https://user-images.githubusercontent.com/129471307/236366817-438abfd7-4141-48df-a6bd-1ef2eca8453b.png https://public.tableau.com/views/CustomerSales_16817864794460/CustomerSales?:language=en-US&:display_count=n&:origin=viz_share_link)
+    - [Annual Salary Dashboard](https://public.tableau.com/app/profile/sameed/viz/AnnualSalaryDashboard/Dashboard1) - An interactive dashboard displaying annual salay          different countries based on different industries
+
+# Certifications 📄
+  - [Tableau training for Data Science](https://concordia.udemy.com/certificate/UC-3814f458-5b6f-4699-8fd1-6364647aecbc/)
+  - Six Simga Green Belt 
+  - [Machine Learning for All](https://coursera.org/share/a2cff7ac87afb0709f4f62cc5f3d5a5f)
+
+## [Linkedin Profile](https://www.linkedin.com/in/sameed-ahmed-/)
 
 
