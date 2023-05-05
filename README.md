@@ -12,5 +12,6 @@
 -**Languages**: English | French (Conversational) | Hindi | Urdu
 
 # Work Expereience 👔
-    | Job Position | Company | Role | Time Period 
+    | Job Position | Company | Time Period |
     | -------------| -------------|-------------|-------------|
+    | Inbound Problem Solver | SSENSE | September 2021 - Current |
