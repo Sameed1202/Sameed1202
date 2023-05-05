@@ -18,7 +18,7 @@
    | Industrial Intern      | Forbes Marshall | January 2019 - July 2019 | Pune, India  |
 
 # Projects 📃
-  - [[Inventory Management for Small Business]([url](https://github.com/Sameed1202/Inventory-Management-for-Small-Scale-Business-UI))] 
+  - [[Inventory Management for Small Business]([https://github.com/Sameed1202/Inventory-Management-for-Small-Scale-Business-UI))]] 
   - [[Reduce engine rework due to low oil pressure]([url](https://github.com/Sameed1202/Full-Factorial_MINITAB_Engine-Pressure))] 
   - Simulation of Montreal Clinic using ARENA 
 
