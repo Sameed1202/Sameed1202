@@ -24,4 +24,4 @@
 
 # Tableau Projects 👨‍💻
   - [Cusomer Sales Dashboard](https://public.tableau.com/app/profile/sameed/viz/CustomerSales_16817864794460/CustomerSales)- An interactive dashboard displaying              sales information such as most profitable products, profit margin, and segmentation based on  different types and countries
-       ![image](https://user-images.githubusercontent.com/129471307/236365546-5ff1c72c-736a-4cef-a9aa-211b6051d655.png)
+       ![image]([https://user-images.githubusercontent.com/129471307/236365546-5ff1c72c-736a-4cef-a9aa-211b6051d655.png](https://public.tableau.com/app/profile/sameed/viz/CustomerSales_16817864794460/CustomerSales))
