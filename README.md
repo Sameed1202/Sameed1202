@@ -12,6 +12,8 @@
 -**Languages**: English | French (Conversational) | Hindi | Urdu
 
 # Work Expereience 👔
-    |Job Position|Company|Time Period|
-    | -------------| -------------|-------------|
-    | Inbound Problem Solver | SSENSE | September 2021 - Current |
+   | Job Position           | Company         | Work  Period             | Location     |
+|------------------------|-----------------|--------------------------|--------------|
+| Inbound Problem Solver | SSENSE          | September 2021 - Current | Montreal, QC |
+| Industrial Intern      | Forbes Marshall | January 2019 - July 2019 | Pune, India  |
+
