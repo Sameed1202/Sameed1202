@@ -32,6 +32,6 @@
   - Six Sigma Green Belt 
   - [Machine Learning for All](https://coursera.org/share/a2cff7ac87afb0709f4f62cc5f3d5a5f)
 
-## [Linkedin Profile](https://www.linkedin.com/in/sameed-ahmed-/)
+# [Linkedin Profile](https://www.linkedin.com/in/sameed-ahmed-/)
 
 
