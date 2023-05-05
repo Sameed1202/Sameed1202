@@ -29,7 +29,7 @@
   - [Annual Salary Dashboard](https://public.tableau.com/app/profile/sameed/viz/AnnualSalaryDashboard/Dashboard1) - An interactive dashboard displaying annual salay          different countries based on different industries
 
 # Certifications 📄
-  - [Tableau training for Data Science](https://concordia.udemy.com/certificate/UC-3814f458-5b6f-4699-8fd1-6364647aecbc/)
+  - [Tableau training for Data Science](https://www.udemy.com/certificate/UC-3814f458-5b6f-4699-8fd1-6364647aecbc/)
   - Six Sigma Green Belt 
   - [Machine Learning for All](https://coursera.org/share/a2cff7ac87afb0709f4f62cc5f3d5a5f)
 
