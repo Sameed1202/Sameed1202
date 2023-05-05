@@ -13,7 +13,15 @@
 
 # Work Expereience 👔
    | Job Position           | Company         | Work  Period             | Location     |
-|------------------------|-----------------|--------------------------|--------------|
-| Inbound Problem Solver | SSENSE          | September 2021 - Current | Montreal, QC |
-| Industrial Intern      | Forbes Marshall | January 2019 - July 2019 | Pune, India  |
+   |------------------------|-----------------|--------------------------|--------------|
+   | Inbound Problem Solver | SSENSE          | September 2021 - Current | Montreal, QC |
+   | Industrial Intern      | Forbes Marshall | January 2019 - July 2019 | Pune, India  |
 
+# Projects 📃
+  - [Inventory Management for Small Business] (https://github.com/Sameed1202/Inventory-Management-for-Small-Scale-Business-UI)
+  - [Reduce engine rework due to low oil pressure] (https://github.com/Sameed1202/Full-Factorial_MINITAB_Engine-Pressure)
+  - Simulation of Montreal Clinic
+
+# Tableau Projects 👨‍💻
+  - [Cusomer Sales Dashboard] (https://public.tableau.com/app/profile/sameed/viz/CustomerSales_16817864794460/CustomerSales) - An interactive dashboard displaying sales     information such as most profitable products, profit margin, and segmentation based on different types and countries
+  - 
