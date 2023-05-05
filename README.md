@@ -23,7 +23,7 @@
   - Simulation of Montreal Clinic using ARENA 
 
 # Tableau Projects 👨‍💻
-  - [Annual Salary Dashboard](https://public.tableau.com/app/profile/sameed/viz/AnnualSalaryDashboard/Dashboard1) - An interactive dashboard displaying annual salay          different countries based on different industries
+  - [Annual Salary Dashboard](https://public.tableau.com/app/profile/sameed/viz/AnnualSalaryDashboard/Dashboard1) - An interactive dashboard displaying annual salary        based on different industries
  
   - [Cusomer Sales Dashboard](https://public.tableau.com/app/profile/sameed/viz/CustomerSales_16817864794460/CustomerSales)- An interactive dashboard displaying              sales information such as most profitable products, profit margin, and segmentation based on  different types and countries
       
