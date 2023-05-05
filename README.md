@@ -18,10 +18,10 @@
    | Industrial Intern      | Forbes Marshall | January 2019 - July 2019 | Pune, India  |
 
 # Projects 📃
-  - [Inventory Management for Small Business] (https://github.com/Sameed1202/Inventory-Management-for-Small-Scale-Business-UI)
-  - [Reduce engine rework due to low oil pressure] (https://github.com/Sameed1202/Full-Factorial_MINITAB_Engine-Pressure)
-  - Simulation of Montreal Clinic
+  - [[Inventory Management for Small Business](url)] 
+  - [[Reduce engine rework due to low oil pressure](url)] 
+  - Simulation of Montreal Clinic using ARENA 
 
 # Tableau Projects 👨‍💻
-  - [[Cusomer Sales Dashboard](url)](https://public.tableau.com/app/profile/sameed/viz/CustomerSales_16817864794460/CustomerSales) - An interactive dashboard displaying sales     information such as most profitable products, profit margin, and segmentation based on different types and countries
+  - [[Cusomer Sales Dashboard](url)]- An interactive dashboard displaying sales information such as most profitable products, profit margin, and segmentation based on        different types and countries
   
