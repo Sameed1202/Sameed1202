@@ -12,4 +12,5 @@
 -**Languages**: English | French (Conversational) | Hindi | Urdu
 
 # Work Expereience 👔
-
+    | Job Position | Company | Role | Time Period 
+    | -------------| -------------|-------------|-------------|
