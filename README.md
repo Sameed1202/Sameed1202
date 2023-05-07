@@ -1,6 +1,6 @@
 # Hi, my name is Sameed Ahmed :wave:
 
-- **M**.**Eng** from Concordia University
+-**M**.**Eng** from Concordia University
 
 -**Field of Interest**: Data Analytics, Continous Improvement, Operations, Supply Chain
 
