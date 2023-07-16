@@ -30,7 +30,7 @@
       
 # Certifications 📄
   - [Tableau training for Data Science](https://www.udemy.com/certificate/UC-3814f458-5b6f-4699-8fd1-6364647aecbc/)
-  - Six Sigma Green Belt 
+  - [Six Sigma Green Belt](https://www.coursera.org/account/accomplishments/specialization/3HEG28TK4KJP)
   - [Machine Learning for All](https://coursera.org/share/a2cff7ac87afb0709f4f62cc5f3d5a5f)
 
 # [Linkedin Profile](https://www.linkedin.com/in/sameed-ahmed-/)
