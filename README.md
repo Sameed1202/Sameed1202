@@ -2,10 +2,10 @@
 
 -**M**.**Eng** from Concordia University
 
--**Field of Interest**: Data Analytics, Continous Improvement, Operations, Supply Chain
+-**Field of Interest**: Data Analytics, Continous Improvement, Operations, Supply Chain, Procurement
 
 # Skills & Languages 📖
--**Skills**: SQL | Pyhton | Tableau | Microsot Office (Word, PowerPoint, Excel) | CPLEX | PowerBI | Continnous Improvement
+-**Skills**: SAP | SQL | Pyhton | Tableau | Microsot Office (Word, PowerPoint, Excel) | CPLEX | PowerBI | Continnous Improvement | Total Quality Management
 
 -**Soft Skills**: Time Management | Adapatability | Problem-Solving | Communcation & Leadership | Detail Oriented
 
@@ -14,7 +14,8 @@
 # Work Expereience 👔
    | Job Position           | Company         | Work  Period             | Location     |
    |------------------------|-----------------|--------------------------|--------------|
-   | Inbound Problem Solver | SSENSE          | September 2021 - Current | Montreal, QC |
+   | Operation Analyst | SSENSE          | September 2021 - Current | Montreal, QC |
+   | Procurement Specialist      | Forbes Marshall | Sptember 2020 - July 2021 | Pune, India  |
    | Industrial Intern      | Forbes Marshall | January 2019 - July 2019 | Pune, India  |
 
 # Projects 📃
