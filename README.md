@@ -26,7 +26,7 @@
 # Tableau Projects 👨‍💻
   - [Annual Salary Dashboard](https://public.tableau.com/app/profile/sameed/viz/AnnualSalaryDashboard/Dashboard1) - An interactive dashboard displaying average annual     salary based on different industries
  
-  - [Cusomer Sales Dashboard](https://public.tableau.com/app/profile/sameed/viz/CustomerSales_16817864794460/CustomerSales)- An interactive dashboard displaying              sales information such as most profitable products, profit margin, and segmentation based on  different types and countries
+  - [DataCo Supply Chain](https://public.tableau.com/app/profile/sameed/viz/DataCoSupplyChain_16856696922750/Dashboard1)- An interactive dashboard displaying              sales information such as most profitable products, profit margin, and segmentation based on  different types and countries
       
 # Certifications 📄
   - [Tableau training for Data Science](https://www.udemy.com/certificate/UC-3814f458-5b6f-4699-8fd1-6364647aecbc/)
